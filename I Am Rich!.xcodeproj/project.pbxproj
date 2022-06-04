@@ -16,6 +16,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B55072F9284C15B700E5DEAA /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		B55072FA284C172100E5DEAA /* LICENSE.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = LICENSE.md; sourceTree = "<group>"; };
 		B56CFD84280A27690077048F /* I Am Rich!.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "I Am Rich!.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B56CFD87280A27690077048F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B56CFD89280A27690077048F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -40,6 +42,8 @@
 		B56CFD7B280A27690077048F = {
 			isa = PBXGroup;
 			children = (
+				B55072FA284C172100E5DEAA /* LICENSE.md */,
+				B55072F9284C15B700E5DEAA /* README.md */,
 				B56CFD86280A27690077048F /* I Am Rich! */,
 				B56CFD85280A27690077048F /* Products */,
 			);
